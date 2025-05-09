@@ -1,6 +1,4 @@
-
-
-markdown
+# Markdown
 # ✍️ Handwritten Digit Classifier with Odd/Even Checker
 
 This web app lets you **draw any digit (0–9)** in your browser. It will:
@@ -111,4 +109,3 @@ pip install -r requirements.txt
 **Aryan Acharya**
 Made with ❤️ — © 2025
 
-```
