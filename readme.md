@@ -75,7 +75,7 @@ So:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/HANDWRITTEN_DIGIT_CLASSIFIER.git
+git clone [https://github.com/your-username/HANDWRITTEN_DIGIT_CLASSIFIER.git](https://github.com/aryan1112003/HANDWRITTEN_DIGIT_CLASSIFIER)
 cd HANDWRITTEN_DIGIT_CLASSIFIER
 ```
 
